@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/monster-robot/static/css/main.50f4df10.chunk.css",
+    "main.js": "/monster-robot/static/js/main.13ce6980.chunk.js",
+    "main.js.map": "/monster-robot/static/js/main.13ce6980.chunk.js.map",
+    "runtime-main.js": "/monster-robot/static/js/runtime-main.28ed9128.js",
+    "runtime-main.js.map": "/monster-robot/static/js/runtime-main.28ed9128.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/monster-robot/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4eef5ad1.chunk.js": "/monster-robot/static/js/2.4eef5ad1.chunk.js",
+    "static/js/2.4eef5ad1.chunk.js.map": "/monster-robot/static/js/2.4eef5ad1.chunk.js.map",
+    "index.html": "/monster-robot/index.html",
+    "precache-manifest.45307eee5d7843ef4e5a70d3ca97e60b.js": "/monster-robot/precache-manifest.45307eee5d7843ef4e5a70d3ca97e60b.js",
+    "service-worker.js": "/monster-robot/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/monster-robot/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.50f4df10.chunk.css.map": "/monster-robot/static/css/main.50f4df10.chunk.css.map",
+    "static/js/2.4eef5ad1.chunk.js.LICENSE.txt": "/monster-robot/static/js/2.4eef5ad1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/monster-robot/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28ed9128.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.4eef5ad1.chunk.js",
+    "static/css/main.50f4df10.chunk.css",
+    "static/js/main.13ce6980.chunk.js"
+  ]
+}
