@@ -10,4 +10,4 @@ This app is written using Functional components and not Class using Context to m
 
 ## Or go to the link below to preview
 
-[https://jj-code.github.io/monster-robot/](https://jj-code.github.io/monster-robot/)
+[https://jj-code.github.io/monster-robot-2/](https://jj-code.github.io/monster-robot-2/)
