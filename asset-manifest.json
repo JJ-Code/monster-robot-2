@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/monster-robot-2/static/css/main.8b6b32fd.chunk.css",
-    "main.js": "/monster-robot-2/static/js/main.9443a161.chunk.js",
-    "main.js.map": "/monster-robot-2/static/js/main.9443a161.chunk.js.map",
+    "main.js": "/monster-robot-2/static/js/main.27e1501d.chunk.js",
+    "main.js.map": "/monster-robot-2/static/js/main.27e1501d.chunk.js.map",
     "runtime-main.js": "/monster-robot-2/static/js/runtime-main.d6caaa11.js",
     "runtime-main.js.map": "/monster-robot-2/static/js/runtime-main.d6caaa11.js.map",
     "static/css/2.3c03f26f.chunk.css": "/monster-robot-2/static/css/2.3c03f26f.chunk.css",
     "static/js/2.4eef5ad1.chunk.js": "/monster-robot-2/static/js/2.4eef5ad1.chunk.js",
     "static/js/2.4eef5ad1.chunk.js.map": "/monster-robot-2/static/js/2.4eef5ad1.chunk.js.map",
     "index.html": "/monster-robot-2/index.html",
-    "precache-manifest.f07d09289bbd72a6ca5d513c22c41336.js": "/monster-robot-2/precache-manifest.f07d09289bbd72a6ca5d513c22c41336.js",
+    "precache-manifest.e8b246d5e3cb7747af1df98c1752a233.js": "/monster-robot-2/precache-manifest.e8b246d5e3cb7747af1df98c1752a233.js",
     "service-worker.js": "/monster-robot-2/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/monster-robot-2/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.8b6b32fd.chunk.css.map": "/monster-robot-2/static/css/main.8b6b32fd.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.4eef5ad1.chunk.js",
     "static/css/main.8b6b32fd.chunk.css",
-    "static/js/main.9443a161.chunk.js"
+    "static/js/main.27e1501d.chunk.js"
   ]
 }
