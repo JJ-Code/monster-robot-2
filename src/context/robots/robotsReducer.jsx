@@ -1,14 +1,14 @@
-import { GET_ROBOTS, SET_CURRENT_ROBOTS, ROTBOTS_ERROR } from "../actions/types";
+import { GET_ROBOTS, SET_CURRENT_ROBOTS, ROTBOTS_ERROR } from "../types";
 
-const initialState = {
-  robotFriends: [],
-  defaultRobots: [],
-  noResults: false,
-  error: null
-}
+// const initialState = {
+//   robotFriends: [],
+//   defaultRobots: [],
+//   noResults: false,
+//   error: null
+// }
 
 
-export default (state = initialState, action) => {
+export default (state, action) => {
   switch (action.type) {
     case GET_ROBOTS:
       return {

@@ -3,15 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import 'tachyons';
-import { Provider } from "react-redux";
-import store from "./store";
+import RobotsState from "./context/robots/RobotsState";
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Provider store={store}>
-      <App/>
-      </Provider>
+    <RobotsState>
+      <App />
+    </RobotsState>
   </React.StrictMode>,
   document.getElementById('root')
 );
